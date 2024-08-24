@@ -1,5 +1,5 @@
 👋Oie 
-- Meu nome é Raquel Luna. Bem vindo ao meu perfil GitHub 🤭
+- 🤭 Meu nome é Raquel Luna. Bem vindo ao meu perfil GitHub
 
 -------------------------------------------------------------
 
