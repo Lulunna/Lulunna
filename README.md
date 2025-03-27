@@ -5,12 +5,10 @@
 
 - 📝 Estudante de programação
 - 💪 conhecimento em : HTML, CSS, JAVASCRIPT, REACT, MYSQL, BOOTSTRAP...
-- 📝 Cursando Analise e Desenvolvimento de Sistema 
+- 💻 Cursando Analise e Desenvolvimento de Sistema 
 
 -------------------------------------------------------------
 
-💻 Estou aprendendo: 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50" height="50" />
        
-Me [![aadit314-aadit](https://tenor.com/pt-BR/view/bubu-dancing-dance-happy-dance-bubu-cat-gif-9406698208260770694)
+Me https://tenor.com/pt-BR/view/bubu-dancing-dance-happy-dance-bubu-cat-gif-9406698208260770694
