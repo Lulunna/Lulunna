@@ -4,7 +4,7 @@
 -------------------------------------------------------------
 
 - 📝 Estudante de programação
-- 💪 conhecimento em : HTML, CSS, JAVASCRIPT, REACT, MYSQL, BOOTSTRAP...
+- 💪 Conhecimento em : HTML, CSS, JAVASCRIPT, REACT, MYSQL, JAVA...
 - 💻 Cursando Analise e Desenvolvimento de Sistema 
 
 -------------------------------------------------------------
