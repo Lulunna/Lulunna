@@ -3,9 +3,8 @@
 
 -------------------------------------------------------------
 - 💻 Atuando em Software Testing | QA  
-- 📝 Estudante de programação
-- 💪 Conhecimento em : HTML • CSS • JavaScript • React • MySQL • Java
-- 💻 Cursando Analise e Desenvolvimento de Sistema 
+- 💪 Conhecimento em : HTML • CSS • JavaScript • React • MySQL • Java...
+- 📝 Cursando Analise e Desenvolvimento de Sistema 
 
 ------------------------------------------------------------- 
 
